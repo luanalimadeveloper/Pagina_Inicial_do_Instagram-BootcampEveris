@@ -1,10 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto: Página Inicial do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse projeto foi desenvolvido durante o Bootcamp da Everis através do curso da Digital Innovation One. 
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
